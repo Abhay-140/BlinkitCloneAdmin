@@ -24,4 +24,4 @@ Blinkit Clone (admin) is an android app where seller can upload their grocceries
 
 # Contributing
 
-We welcome contributions to improve Quiz Mania! If you have suggestions or find bugs, please open an issue or submit a pull request on our GitHub repository.
+We welcome contributions to improve Blinkit Clone (admin). If you have suggestions or find bugs, please open an issue or submit a pull request on our GitHub repository.
